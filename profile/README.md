@@ -1,12 +1,29 @@
 ## Hi there 👋
 
-<!--
+We are **ふんばり温泉チーム**: funbari-onsen Team.
 
-**Here are some ideas to get you started:**
+This team is for [ISUCON](https://isucon.net/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## Members
+
+* [matsumatasu20](https://github.com/matsumatasu20)
+* [tmyjoe](https://github.com/tmyjoe)
+* [haijima](https://github.com/haijima)
+
+
+## History
+
+|                |  Points | Rank | Participants |
+|----------------|--------:|-----:|-------------:|
+| ISUCON7        |  26,048 |  148 |          407 |
+| ISUCON8        |       0 | Fail |          528 |
+| ISUCON9        |  12,060 |   17 |          598 |
+| ISUCON9 Final  |  10,894 |    6 |           32 |
+| ISUCON10       |   2,158 |   25 |          490 |
+| ISUCON10 Final |  25,080 |   10 |           33 |
+| ISUCON11       | 170,055 |   14 |          598 |
+| ISUCON11 Final | 112,267 | Fail |           30 |
+
+https://isucon.net/
+
