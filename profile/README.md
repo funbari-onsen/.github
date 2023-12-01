@@ -25,6 +25,7 @@ This team is for [ISUCON](https://isucon.net/)
 | ISUCON11       | 170,055 |   14 |          598 |
 | ISUCON11 Final | 112,267 | Fail |           30 |
 | ISUCON12       |       0 | Fail |          698 |
+| ISUCON13       |  95,094 |   19 |          694 |
 
 https://isucon.net/
 
