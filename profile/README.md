@@ -7,7 +7,7 @@ This team is for [ISUCON](https://isucon.net/)
 
 ## Members
 
-* [matsumatasu20](https://github.com/matsumatasu20)
+* [matsumatsu20](https://github.com/matsumatsu20)
 * [tmyjoe](https://github.com/tmyjoe)
 * [haijima](https://github.com/haijima)
 
