@@ -14,7 +14,7 @@ This team is for [ISUCON](https://isucon.net/)
 
 ## History
 
-|                |  Points | Rank | Participants |
+|                |   Score | Rank | Participants |
 |----------------|--------:|-----:|-------------:|
 | ISUCON14       |       0 | Fail |    834 teams |
 | ISUCON13       |  95,094 |   19 |    694 teams |
